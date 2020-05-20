@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "https://www.zastavki.com/pictures/originals/2013/Animals___Dogs_Tiny_puppy_beagle_049919_.jpg",
+      "title": "Your dog",
+      "price": "20$"
+    },
+    {
+      "id": 2,
+      "image": "https://www.zastavki.com/pictures/originals/2013/Animals___Dogs_Tiny_puppy_beagle_049919_.jpg",
+      "title": "Your dog",
+      "price": "20$"
+    },
+    {
+      "id": 3,
+      "image": "https://www.zastavki.com/pictures/originals/2013/Animals___Dogs_Tiny_puppy_beagle_049919_.jpg",
+      "title": "Your dog",
+      "price": "20$"
+    }
+  ]
+}
